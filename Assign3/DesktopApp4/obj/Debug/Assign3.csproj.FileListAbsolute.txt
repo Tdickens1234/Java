@@ -1,0 +1,10 @@
+C:\Users\Timdi\Desktop\Assign3\Assign3\bin\Debug\DesktopApp4.exe.config
+C:\Users\Timdi\Desktop\Assign3\Assign3\bin\Debug\DesktopApp4.exe
+C:\Users\Timdi\Desktop\Assign3\Assign3\bin\Debug\DesktopApp4.pdb
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\Assign3.csprojAssemblyReference.cache
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\DesktopApp4.Form1.resources
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\DesktopApp4.Properties.Resources.resources
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\Assign3.csproj.GenerateResource.cache
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\Assign3.csproj.CoreCompileInputs.cache
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\DesktopApp4.exe
+C:\Users\Timdi\Desktop\Assign3\Assign3\obj\Debug\DesktopApp4.pdb
